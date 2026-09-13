@@ -1,0 +1,3 @@
+livekit-agents[mcp]
+livekit-plugins-ai-coustics
+python-dotenv
